@@ -15,7 +15,7 @@ A simple and fully functional calculator built using React. This application sup
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ### 🏠 Home Page
 
