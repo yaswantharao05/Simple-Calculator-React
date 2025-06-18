@@ -21,7 +21,7 @@ A simple and fully functional calculator built using React. This application sup
 
 This is the initial view of the calculator when loaded.
 
-![Home Page](./calc.j[g)
+![Home Page](./calc.jpg)
 
 ---
 
