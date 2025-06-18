@@ -37,5 +37,5 @@ This is the initial view of the calculator when loaded.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/simple-react-calculator.git](https://github.com/yaswantharao05/Simple-Calculator-React.git)
+   git clone https://github.com/yaswantharao05/Simple-Calculator-React.git
    cd simple-react-calculator
